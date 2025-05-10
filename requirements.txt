@@ -2,3 +2,6 @@ langchain
 langchain_ollama
 langchain_core
 langgraph
+langchain_community
+tavily-python
+langgraph-checkpoint-sqlite
